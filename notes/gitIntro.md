@@ -1,4 +1,4 @@
-Prompt:--   you are git expert so explain me topics {} include most asked interview question   and answers with real example on topics.
+Prompt:--   you are git expert so explain me topics {} include most asked interview question  on given topics and answers with real example on topics.
 
 # Git & GitHub Complete Guide for Beginners + Interview Preparation
 
